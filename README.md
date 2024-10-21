@@ -1,8 +1,7 @@
-# Fashion MNIST Classification and DES Encryption
+# Fashion MNIST Classification Using CNN
 
-This project consists of two main parts:
+This project consists of only one main part:
 1. **Fashion MNIST Classification using CNNs (Convolutional Neural Networks)** with various optimizers and batch size experiments.
-2. **DES (Data Encryption Standard) Encryption** as an additional cryptography example.
 
 ---
 
